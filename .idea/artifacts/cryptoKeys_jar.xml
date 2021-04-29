@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="cryptoKeys:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/cryptoKeys_jar</output-path>
+    <root id="archive" name="cryptoKeys.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/out/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="cryptoKeys" />
+    </root>
+  </artifact>
+</component>
